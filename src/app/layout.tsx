@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 		template: `%s | ${SITE_NAME}`
 	},
 
-	description: 'Developed by Yurchinho_capuchinho'
+	description: 'Developed by Yurchinho-capuchinho'
 }
 
 export default function RootLayout({
